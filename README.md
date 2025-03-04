@@ -1,6 +1,6 @@
 ## Hi there 👋  , I'm Sampath kumar Nanjala
 
-# 🚀 Sampath Kumar – Flutter Designer & Mobile Developer  
+# 🚀 Flutter Designer & Mobile Developer  
 
 ## Crafting Seamless & Intuitive Mobile Experiences  
 
