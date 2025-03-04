@@ -39,7 +39,7 @@ Hello, we're excited to introduce *Treasure Hunt*, an interactive mobile applica
 - [treasure-hunt](https://github.com/Sampath-2613/treasure-hunt )
 <h2>🎓 Education</h2>
 <ul>
-  <li>🎓 <strong>B.tech(Computer science engineering)</strong> – St.Peter’s Institute of Higher Education and Research</li>
+  <li>🎓 <strong>B.tech(Computer science)</strong> – St.Peter’s Institute of Higher Education and Research</li>
   <li>🏫 <strong>Intermediate (MPC)</strong> – Sri Chaitanya Junior College</li>
   <li>🏫 <strong>Schooling</strong> – Sri Chaitanya International School</li>
 </ul>
