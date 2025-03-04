@@ -31,7 +31,7 @@ Hello, we're excited to introduce *Treasure Hunt*, an interactive mobile applica
 
 ## 🚀 Projects  
 - Treasure hunt – Full-fledged gaming UI inspired
-- Movie_Streaming_App – Flutter-based Movies Streaming app with Firebase backend  
+- E-commerce – Flutter-based Movies Streaming app with Firebase backend  
 - Car Rental Project – Smooth UI with real-time car booking app
 
 ### Checkout My Projects 
