@@ -6,7 +6,7 @@
 
 I'm a Flutter Developer & UI/UX Designer passionate about creating engaging, user-friendly, and high-performance mobile applications. With expertise in **Flutter, Dart, and Firebase, I specialize in building **cross-platform apps that deliver smooth UI/UX and efficient functionality. 
 
-- 🔭 I’m currently working on a project name *Treasure hunt*
+- 🔭 I’m currently working on a project name *Gaming Application*
 
 - 🌱 I’m currently learning *flutter,react.js*
 
@@ -45,14 +45,14 @@ Hello, we're excited to introduce *Treasure Hunt*, an interactive mobile applica
 </ul>
 ---
 
-### 🚀 I am currently working on a project named Treasure Hunt  
+### 🚀 I am currently working on a project named Gaming Application  
 
-# 📲 Treasure Hunt  
+# 📲 Gaming application  
 
 Hello, I'm sampath, a Flutter developer passionate about creating seamless gaming experiences. Treasure Hunt is a full-fledged gaming platform replicating Treasure Hunt UI/UX, providing users with a smooth and efficient way to play the game.
 
 ## 🎮 *Features*  
-- 🗺 *Interactive and dynamic treasure hunt game UI*  
+- 🗺 *Interactive and dynamic game application UI*  
 - 💨 *Smooth animations for a seamless experience*  
 - 🔍 *Easy navigation with multiple game stages*  
 - 🏆 *Leaderboards and progress tracking*
